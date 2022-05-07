@@ -1,0 +1,15 @@
+C:\Users\Gregory Wizner\source\repos\movieLab\obj\Debug\net6.0\movieLab.csproj.AssemblyReference.cache
+C:\Users\Gregory Wizner\source\repos\movieLab\obj\Debug\net6.0\movieLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gregory Wizner\source\repos\movieLab\obj\Debug\net6.0\movieLab.AssemblyInfoInputs.cache
+C:\Users\Gregory Wizner\source\repos\movieLab\obj\Debug\net6.0\movieLab.AssemblyInfo.cs
+C:\Users\Gregory Wizner\source\repos\movieLab\obj\Debug\net6.0\movieLab.csproj.CoreCompileInputs.cache
+C:\Users\Gregory Wizner\source\repos\movieLab\bin\Debug\net6.0\movieLab.exe
+C:\Users\Gregory Wizner\source\repos\movieLab\bin\Debug\net6.0\movieLab.deps.json
+C:\Users\Gregory Wizner\source\repos\movieLab\bin\Debug\net6.0\movieLab.runtimeconfig.json
+C:\Users\Gregory Wizner\source\repos\movieLab\bin\Debug\net6.0\movieLab.dll
+C:\Users\Gregory Wizner\source\repos\movieLab\bin\Debug\net6.0\movieLab.pdb
+C:\Users\Gregory Wizner\source\repos\movieLab\obj\Debug\net6.0\movieLab.dll
+C:\Users\Gregory Wizner\source\repos\movieLab\obj\Debug\net6.0\refint\movieLab.dll
+C:\Users\Gregory Wizner\source\repos\movieLab\obj\Debug\net6.0\movieLab.pdb
+C:\Users\Gregory Wizner\source\repos\movieLab\obj\Debug\net6.0\movieLab.genruntimeconfig.cache
+C:\Users\Gregory Wizner\source\repos\movieLab\obj\Debug\net6.0\ref\movieLab.dll
